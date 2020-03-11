@@ -1,6 +1,6 @@
-## 2020 Code Squad Weekly Challenge
+# 2020 CodeSquad Weekly Coding Challenge
 
-[CodeSquad](https://www.codesquad.org)
+Website: [CodeSquad](https://www.codesquad.org)
 
 ## Description
 
